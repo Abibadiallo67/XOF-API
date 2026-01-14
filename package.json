@@ -1,0 +1,12 @@
+{
+  "name": "nexus-sso",
+  "type": "module",
+  "dependencies": {
+    "express": "^4",
+    "jsonwebtoken": "^9",
+    "argon2": "^0.30",
+    "uuid": "^9",
+    "helmet": "^7",
+    "express-rate-limit": "^7"
+  }
+}
